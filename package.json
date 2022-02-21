@@ -1,0 +1,23 @@
+{
+  "name": "newsletter-signup-expressjs",
+  "version": "1.0.0",
+  "description": "A simple signup letter application.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tontonsevilla/newsletter-signup-expressjs.git"
+  },
+  "author": "Tonton Sevilla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tontonsevilla/newsletter-signup-expressjs/issues"
+  },
+  "homepage": "https://github.com/tontonsevilla/newsletter-signup-expressjs#readme",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3"
+  }
+}
